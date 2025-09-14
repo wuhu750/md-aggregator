@@ -1,0 +1,15 @@
+{
+   "compilerOptions": {
+      "lib": [
+         "dom",
+         "es6"
+      ],
+      "target": "es6",
+      "module": "umd",
+      "outDir": "dist",
+      "sourceMap": true,
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+   },
+   "include": ["src/**/*.ts"],
+}
